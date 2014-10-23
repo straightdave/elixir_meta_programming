@@ -6,8 +6,8 @@ Elixir元编程
 
 前三章：  
 
-1. 引用和反引用
-2. 宏
-3. 领域专用语言DSL
+1. [引用和反引用](1-quote-unquote.md)
+2. [宏](2-macros.md)
+3. [领域专用语言DSL](3-dsl.md)
 
 很有价值的博客 http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html 
